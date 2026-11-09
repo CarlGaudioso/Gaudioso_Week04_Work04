@@ -1,0 +1,17 @@
+
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+
+# Build files
+bin/
+obj/
+
+# Debug files
+Debug/
+Release/
+
+# Temporary files
+*.cache
+*.log
